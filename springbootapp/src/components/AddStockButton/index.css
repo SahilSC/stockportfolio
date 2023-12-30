@@ -1,0 +1,15 @@
+.add-stock-button {
+    display: flex;
+    /* background-color: orange; */
+    /* font-size: 2px; */
+    justify-content: center;
+    align-items: center;
+}
+
+.error { 
+    display: flex;
+    /* background-color: orange; */
+    /* font-size: 2px; */
+    justify-content: center;
+    align-items: center;
+}

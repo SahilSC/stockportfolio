@@ -1,0 +1,9 @@
+.graph-container {
+    display: flex;
+    position: absolute;
+    /* left:30%; */
+    /* background-color: orange; */
+    /* font-size: 2px; */
+    justify-content: center;
+    align-items: center;
+}
